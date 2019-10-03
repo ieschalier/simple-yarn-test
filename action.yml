@@ -1,0 +1,11 @@
+name: Unit test of vegantrip mobile app
+author: Igor ESCHALIER
+description: start javascript unit test of vegantrip RN app
+inputs:
+  dir:
+    description: 'Project dir'
+    required: false
+    default: './'
+runs:
+  using: 'node12'
+  main: 'test.js'
