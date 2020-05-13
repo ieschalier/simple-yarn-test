@@ -1,4 +1,4 @@
-name: Unit test
+name: @ieschalier/yarn_test
 author: Igor ESCHALIER
 description: start javascript unit test
 inputs:
