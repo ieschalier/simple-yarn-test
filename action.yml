@@ -1,6 +1,6 @@
-name: Unit test of vegantrip mobile app
+name: Unit test
 author: Igor ESCHALIER
-description: start javascript unit test of vegantrip RN app
+description: start javascript unit test
 inputs:
   dir:
     description: 'Project dir'
